@@ -1,0 +1,17 @@
+.user-container{
+    display: flex;
+   
+}
+.u-container{
+    width: 60%;
+    border-right: 3px solid gray;
+}
+.s-container{
+    text-align: left;
+    margin-left: 10px;
+}
+body{
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: rgb(148, 145, 146);
+}
